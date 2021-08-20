@@ -285,6 +285,14 @@ header .overlay {
     font-size: 15px;
 }
 
+.nosotros-carrera {
+    font-size: 13px;
+}
+
+.nosotros-legajo {
+    font-size: 12px;
+}
+
 .nosotros-redes{
     padding-bottom: 8%;
 }
